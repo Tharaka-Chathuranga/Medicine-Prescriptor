@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984336956612",
+    "project_id": "doctor-app-a679a",
+    "storage_bucket": "doctor-app-a679a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984336956612:android:403a2d09b75a323170dd91",
+        "android_client_info": {
+          "package_name": "com.example.sqlite_flutter_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2G1Jaumu75eSOfSq-OsKv2BPpsfe3c1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
