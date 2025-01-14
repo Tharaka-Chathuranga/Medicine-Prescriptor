@@ -1,0 +1,53 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.packages
+pubspec.lock
+.metadata
+
+# Android specific
+android/.gradle/
+android/app/build/
+android/local.properties
+android/gradle.properties
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/key.properties
+android/**/GeneratedPluginRegistrant.*
+
+# iOS/MacOS specific
+ios/Flutter/.last_build_id
+ios/*.mode1v3
+ios/*.mode2v3
+ios/*.moved-aside
+ios/*.pbxuser
+ios/*.perspectivev3
+ios/**/*sync/
+ios/.sconsign.dblite
+ios/.tags*
+ios/.vagrant/
+ios/DerivedData/
+ios/Icon?
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.*
+macos/Flutter/GeneratedPluginRegistrant.*
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Linux specific
+linux/flutter/generated_plugin_registrant.cc
+linux/flutter/generated_plugin_registrant.h
+linux/flutter/generated_plugins.cmake
+
+# Windows specific
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugins.cmake
